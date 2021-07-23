@@ -1,0 +1,2 @@
+This is sample1.¥n
+This is sample2.¥nHello, World!
