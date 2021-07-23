@@ -37,4 +37,3 @@ try:
   raise AnonymousError
 except AnonymousError:
   print('AnonyMouseErrorが発生したよ')
-# %%
